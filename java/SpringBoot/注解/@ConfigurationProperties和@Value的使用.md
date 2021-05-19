@@ -50,7 +50,7 @@ public class AdminKernelConfig {
 
 
 
-####@ConfigurationProperties
+#### @ConfigurationProperties
 
 >  @ConfigurationProperties可以配置多个配置项，且一般@ConfigurationProperties会结合@EnableConfigurationProperties一起使用，@EnableConfigurationProperties主要作用是指明配置类是哪一个
 
